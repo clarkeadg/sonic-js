@@ -23,5 +23,11 @@ Roadmap/Todo List:
 - Finish Level 1
 
 Thanks to:
-http://impactjs.com/
-http://opensnc.sourceforge.net/home/index.php
+- Impact JS
+    http://impactjs.com/
+- Open Sonic
+    http://opensnc.sourceforge.net/home/index.php
+- SEGA
+    http://www.sega.com/
+
+
