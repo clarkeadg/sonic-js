@@ -13,6 +13,7 @@ Roadmap:
 - Game Over Screen
 - Character Select
 - Level Select
+- Finish HUD
 - Finish Level 1
 
 Thanks to:
