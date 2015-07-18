@@ -1,9 +1,15 @@
 # sonic-js
 This is a WIP (work in progress) version of Sonic the Hedgehog in Javascript and Html5 using the ImpactJS Game Engine.
 
-Please feel free to contribute. 
+Please feel free to contribute.
 
-Roadmap:
+- Sonic Slopes & Loop de Loops
+    http://info.sonicretro.org/SPG:Solid_Tiles
+- Sonic Pysics
+    http://info.sonicretro.org/Sonic_Physics_Guide
+    http://opensnc.sourceforge.net/home/index.php
+
+Roadmap/Todo List:
 - Loop de Loops
 - Title Screen
 - Start of Level Screen
