@@ -3,14 +3,17 @@ This is a WIP (work in progress) version of Sonic the Hedgehog in Javascript and
 
 Please feel free to contribute. 
 
-ToDo:
-- Sonic Physics for Loop de Loops
-- Springs
-- Enemies
-- Finish Level 1
+Roadmap:
+- Loop de Loops
 - Title Screen
 - Start of Level Screen
+- Springs
+- Enemies
+- Items
 - Game Over Screen
+- Character Select
+- Level Select
+- Finish Level 1
 
 Thanks to:
 http://impactjs.com/
