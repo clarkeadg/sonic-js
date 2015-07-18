@@ -1,7 +1,7 @@
 # sonic-js
 Sonic the Hedgehog
 
-This is an open source version of Sega's Sonic the Hedgehog made in javascript.
+This is a javascript open source version of Sonic the Hedgehog.
 
 Thanks to Open Sonic.
 http://opensnc.sourceforge.net/home/index.php
