@@ -1,6 +1,8 @@
 # sonic-js
 This is a WIP (work in progress) version of Sonic the Hedgehog in Javascript and Html5 using the ImpactJS Game Engine.
 
+Please use Chrome to play the game.
+
 Please feel free to contribute.
 
 - Sonic Slopes & Loop de Loops
