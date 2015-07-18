@@ -5,6 +5,7 @@ Please use Chrome to play the game.
 
 Please feel free to contribute.
 
+Sonic Info:
 - Sonic Slopes & Loop de Loops
     http://info.sonicretro.org/SPG:Solid_Tiles
 - Sonic Pysics
